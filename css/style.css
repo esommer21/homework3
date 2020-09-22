@@ -85,7 +85,13 @@ tr{
 
 }
 
-thead tr:first-child(even) {background-color: #D1D1D1} th:first-child(even){background-color: #D1D1D1}
+tr:first-child(even) {
+  background-color: #D1D1D1;
+} 
+
+th:first-child(even){
+  background-color: #D1D1D1;
+}
 
 footer{
   width:100%;
