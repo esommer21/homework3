@@ -62,6 +62,7 @@ table{
 }
 
 .rowhead{
+  border: 2px solid #000000;
   
 
 }
@@ -84,7 +85,7 @@ tr{
 
 }
 
-thead tr:first-child th:first-child{}
+thead tr:first-child(even) {background-color: #D1D1D1} th:first-child(even){background-color: #D1D1D1}
 
 footer{
   width:100%;
