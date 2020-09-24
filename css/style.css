@@ -93,6 +93,11 @@ tr{
 
 }
 
+td, th {
+  border: solid black  10px;
+}
+
+
 thead tr:first-child(even) {
   background-color: #D1D1D1;
 } 
