@@ -93,6 +93,12 @@ tr{
 
 }
 
+tr:hover{
+  background-color: #7e0830;
+  opacity: .25;
+  
+}
+
 tr:nth-child(even) {background-color: #D1D1D1;} 
 
 th:first-of-type {
