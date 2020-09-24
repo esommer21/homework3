@@ -22,13 +22,8 @@ body{
 }
 
 main{
-  margin-bottom: -50px;
   min-height: 100%;
-}
-main:after {
-    content: "";
-    display: block;
-    height: 50px;
+  position: relative;
 }
 
 
