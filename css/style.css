@@ -22,9 +22,15 @@ body{
 }
 
 main{
-  margin-bottom: -100px;
+  margin-bottom: -75;
   min-height: 100%;
 }
+main:after {
+    content: "";
+    display: block;
+    height: 75px;
+}
+
 
 h1{
   color: #c12258;
