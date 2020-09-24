@@ -93,7 +93,7 @@ tr{
 
 }
 
-tr:first-child(even) {
+thead tr:first-child(even) {
   background-color: #D1D1D1;
 } 
 
