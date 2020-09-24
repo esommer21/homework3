@@ -22,13 +22,13 @@ body{
 }
 
 main{
-  margin-bottom: -75px;
+  margin-bottom: -50px;
   min-height: 100%;
 }
 main:after {
     content: "";
     display: block;
-    height: 75px;
+    height: 50px;
 }
 
 
