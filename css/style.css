@@ -93,10 +93,6 @@ tr{
 
 }
 
-td, th {
-  border: solid black  10px;
-}
-
 
 thead tr:first-child(even) {
   background-color: #D1D1D1;
@@ -110,6 +106,7 @@ thead:first-child tr:first-child th:first-child, tbody:first-child tr:first-chil
     border-radius: 10px 0 0 0;
 }
 thead:last-child tr:last-child th:first-child, tbody:last-child tr:last-child td:first-child {
+    border: solid black 10px;
     border-radius: 0 0 0 10px;
 }
 
