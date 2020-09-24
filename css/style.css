@@ -102,12 +102,17 @@ th:first-child(even){
   background-color: #D1D1D1;
 }
 
-thead:first-child tr:first-child th:first-child, tbody:first-child tr:first-child td:first-child {
-    border-radius: 10px 0 0 0;
+th:first-of-type {
+  border-top-left-radius: 10px;
 }
-thead:last-child tr:last-child th:first-child, tbody:last-child tr:last-child td:first-child {
-    border: solid black 10px;
-    border-radius: 0 0 0 10px;
+th:last-of-type {
+  border-top-right-radius: 10px;
+}
+tr:last-of-type td:first-of-type {
+  border-bottom-left-radius: 10px;
+}
+tr:last-of-type td:last-of-type {
+  border-bottom-right-radius: 10px;
 }
 
 footer{
