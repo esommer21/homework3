@@ -22,7 +22,7 @@ body{
 }
 
 main{
-  margin-bottom: -75;
+  margin-bottom: -75px;
   min-height: 100%;
 }
 main:after {
