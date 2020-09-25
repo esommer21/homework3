@@ -110,16 +110,15 @@ th:first-child {
 }
 th:last-child {
   border-top-right-radius: 5px;
-}
-tbody tr:nth-child(even) {
-  background: #000000;
-}
+
 td {
   border-bottom: 10px solid #000000;
   border-right: 10px solid #000000;
 }
 td:first-child {
   border-left: 10px solid #000000;
+  }
+  
 
 footer{
   width:100%;
