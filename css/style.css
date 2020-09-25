@@ -105,11 +105,11 @@ tr:hover{
 
 
 th:first-child {
-  border-top-left-radius: 2px;
+  border-top-left-radius: 10px;
   text-align: left;
 }
 th:last-child {
-  border-top-right-radius: 2px;
+  border-top-right-radius: 10px;
 
 td {
   border-bottom: 10px solid #000000;
