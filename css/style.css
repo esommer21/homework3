@@ -117,11 +117,11 @@ th:last-child {
 
 
 td {
-  border-bottom: 10px solid #000000;
-  border-right: 10px solid #000000;
+  border-bottom: 2px solid #000000;
+  border-right: 2px solid #000000;
 }
 td:first-child{
-  border-left: 10px solid #000000;
+  border-left: 2px solid #000000;
 
 }
 
