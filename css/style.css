@@ -111,6 +111,7 @@ th:first-child {
 }
 th:last-child {
   border-top-right-radius: 10px;
+}
 
 tr:first-child {
   border-top-left-radius: 10px;
@@ -118,7 +119,7 @@ tr:first-child {
 }
 tr:last-child {
   border-top-right-radius: 10px;
-  
+}  
 td {
   border-bottom: 10px solid #000000;
   border-right: 10px solid #000000;
