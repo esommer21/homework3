@@ -115,7 +115,7 @@ td {
   border-bottom: 10px solid #000000;
   border-right: 10px solid #000000;
 }
-td:first-child {
+td:first-child{
   border-left: 10px solid #000000;
 
 }
