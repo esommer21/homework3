@@ -122,8 +122,13 @@ th:last-child {
 
 
 tr:last-child td:first-child {
-  border-bottom-left-radius: 10px;
+  border-bottom-left-radius: 25px;
 
+}
+
+tr:last-child td:first-child {
+  border-bottom-left-radius: 25px;
+}
 
 
 td {
