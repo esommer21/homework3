@@ -24,6 +24,7 @@ body{
 
 main{
   min-height: 100%;
+  margin-bottom: -75px;
   position: relative;
 }
 
