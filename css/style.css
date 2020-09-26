@@ -19,12 +19,12 @@ body{
   background-image: url('../images/pigeon-background.JPEG');
   background-repeat: no-repeat;
   background-color: #DDDDDD;
+  padding-bottom: 75px;
   
 }
 
 main{
   min-height: 100%;
-  margin-bottom: -75px;
   position: relative;
 }
 
@@ -136,11 +136,11 @@ td:first-child{
 
 footer{
   position: fixed;
+  bottom: 0;
   width:100%;
   background:#000000;
   text-align:center;
   color: #FFFFFF;
-  bottom: 0;
   height: 75px;
   
 }
