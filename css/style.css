@@ -142,7 +142,7 @@ footer{
   background:#000000;
   text-align:center;
   color: #FFFFFF;
-  height: 75px;
+  min-height: 75px;
   
 }
 
