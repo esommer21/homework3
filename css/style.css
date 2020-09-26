@@ -136,7 +136,7 @@ table tr:last-child  {
 }
 
 /* bottom-right border-radius */
-table tr:last-child td:last-child {
+table tr:last-child {
   border-bottom-right-radius: 10px;
 }
 
