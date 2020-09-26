@@ -126,7 +126,7 @@ table th:first-child {
 }
 
 /* top-right border-radius */
-table tr:first-child th:last-child {
+table th:last-child {
   border-top-right-radius: 10px;
 }
 
