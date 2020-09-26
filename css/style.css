@@ -135,12 +135,12 @@ td:first-child{
 
 footer{
   position: fixed;
+  bottom: 0;
   width:100%;
   background:#000000;
   text-align:center;
   color: #FFFFFF;
   height: 75px;
-  bottom: 0;
   
 }
 
