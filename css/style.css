@@ -63,7 +63,7 @@ table{
     
 }
 
-.colhead{
+th.colhead{
   background-color: #7e0830;
   color: #FFFFFF;
   column-width:125px;
