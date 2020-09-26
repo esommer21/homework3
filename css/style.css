@@ -72,11 +72,7 @@ th.colhead{
   text-transform: uppercase;
 }
 
-thead{
-  background: #7e0830;
-  text-align: center;
-  column-width:125px;
-}
+
 
 
 .rowhead{
