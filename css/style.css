@@ -137,6 +137,7 @@ td:first-child{
 footer{
   position: fixed;
   bottom: 0;
+  left: 0;
   width:100%;
   background:#000000;
   text-align:center;
