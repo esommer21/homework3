@@ -67,7 +67,7 @@ table{
 th.colhead{
   background: #7e0820;
   color: #FFFFFF;
-  column-width:125px;
+  min-column-width:125px;
   padding:10px;
   text-align:center;
   margin-left: auto;
@@ -118,13 +118,6 @@ th:first-child {
 th:last-child {
   border-top-right-radius: 10px;
   
-}
-td: first-child {
-  border-bottom-left-radius: 10px;
-}
-
-td: last-child {
-  border-bottom-right-radius: 10px;
 }
 
 
