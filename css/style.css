@@ -121,6 +121,11 @@ th:last-child {
 }
 
 
+tr: last-child{
+  border-radius: 10px;
+}
+
+
 
 td {
   border-bottom: 2px solid #000000;
