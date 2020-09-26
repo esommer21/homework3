@@ -64,7 +64,7 @@ table{
 }
 
 th.colhead{
-  background-color: #7e0830;
+  background: #7e0830;
   color: #FFFFFF;
   column-width:125px;
   padding:10px;
