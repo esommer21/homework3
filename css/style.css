@@ -131,7 +131,7 @@ table th:last-child {
 }
 
 /* bottom-left border-radius */
-table tr:last-child  td:first-child{
+table tr:last-child  td:last-child{
   border-bottom-left-radius: 10px;
 }
 
