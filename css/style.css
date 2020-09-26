@@ -121,7 +121,7 @@ td:first-child{
 
 }
 
-table tr:first-child th:first-child {
+table th:first-child {
   border-top-left-radius: 10px;
 }
 
